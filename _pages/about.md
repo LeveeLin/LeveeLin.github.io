@@ -69,15 +69,13 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/fish robot/Rendering.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629)
+[Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation](Paper-2.pdf)
 
 **Date**: 06/2023-Present
 
 **Role**: Co first author, supervised by Prof. Lei Yang and Assoc. Prof. Cong Zhang, WHUT
 
 Mengying Chen, **Di Lin**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
-
-[**video**](https://youtu.be/oTg_eVXxm2c)
 
 **Description**
 -  I designed and generated multi-cell interlacing IWP lattice models using matlab.
