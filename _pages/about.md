@@ -51,7 +51,7 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/Ga2O3/structure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exceptional shape memory effect and superelasticity of ultra-light Gyroid TPMS lattice sturctures fabricated laser powder bed fusion](Paper-2.pdf) (My signature work)
+[Exceptional shape memory effect and superelasticity of ultra-light Gyroid TPMS lattice sturctures fabricated laser powder bed fusion](Paper-2.pdf) (**My signature work**)
 
 **Date**: 01/2023-Present
 
@@ -69,7 +69,7 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/fish robot/Rendering.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bionic Robot Fish](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629)
+[Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629)
 
 **Date**: 06/2023-Present
 
@@ -80,8 +80,9 @@ Mengying Chen, **Di Lin**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
 [**video**](https://youtu.be/oTg_eVXxm2c)
 
 **Description**
--  I designed a double-joint fish robot driven by a coupling propulsion mechanism, with functions including straightening, turning, sinking and floating, and autonomous underwater cruising.
--  Underwater experiments and CFD simulation were established to study the relationship between swimming speed and mechanism design/driving parameters.
+-  I designed and generated multi-cell interlacing IWP lattice models using matlab.
+-  I was responsible for the quasi-static uniaxial compressive experiments and the manufacture of specimens fabricated by LPBF.
+-  I conducted morphological analysis to study the surface features of samples and powders using SEM. Additionally, I assisted my seniors in researching the vibrational isolation properties of multi-cekk interlacing IWP lattice structures.
 
 </div>
 </div>
