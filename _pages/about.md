@@ -30,18 +30,18 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/soft hand/description.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces](https://miaoli.github.io/research/)
+[TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces]([https://miaoli.github.io/research/](https://www.sciencedirect.com/science/article/pii/S2950431724000145))
 
-**Date**: 08/2023-present
+**Date**: 03/2022-04/2022
 
-**Role**: Student Researcher, supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/), WHU
+**Role**: Principal Investigator, supervised by [Prof. Lei Yang(杨磊)]([https://miaoli.github.io/](https://www.researchgate.net/profile/Lei-Yang-129)), WHUT
 
-**Ruijia Zhang**, Zhenyu Nie, Fuqiang Zhao.
+**Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang.
 
 **Description**: 
-- We developed an anthropomorphic hand with flexible microstructure fingers capable of achieving controllable stiffness deformation, enabling effective and adaptive object grasping.
-- The synergy patterns were incorporated into our mechatronic hand system to replicate coordinated and ordered human hand motions observed during the grasp approach phase.
-- We propose a learning-based approach utilizing the finite element method (FEM) to model real-time inverse kinematics(IK) computation on highly nonlinear soft hand. 
+- We created a software named **TPMS_Scaffold_Generator**, which can create different TPMS lattice structures, facilitating researcheres to throughly investigating their geometrical, mechanical, thermal and vibrational characteristics.
+- The compressive mechanical behavior of Ti-6Al-4V Fischer-Koch TPMS lattice stuctures with different gradients fabricated using LPBF was investigated.
+- We introduced an innovative structural design for TPMS lattice structures called multi-symmetrical TPMS scaffold with varying orientations. 
 
 
 </div>
