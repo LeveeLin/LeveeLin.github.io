@@ -34,14 +34,14 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 
 **Date**: 03/2022-03/2024
 
-**Role**: Principal Investigator, supervised by [Prof. Lei Yang(杨磊)]([https://miaoli.github.io/](https://www.researchgate.net/profile/Lei-Yang-129)), WHUT
+**Role**: Principal Investigator, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129), WHUT
 
 **Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang.
 
 **Description**: 
-- We created a software named **TPMS_Scaffold_Generator**, which can create different TPMS lattice structures, facilitating researcheres to throughly investigating their geometrical, mechanical, thermal and vibrational characteristics.
+- I created a software named **TPMS_Scaffold_Generator**, which can create different TPMS lattice structures, facilitating researcheres to throughly investigating their geometrical, mechanical, thermal and vibrational characteristics.
 - The compressive mechanical behavior of Ti-6Al-4V Fischer-Koch TPMS lattice stuctures with different gradients fabricated using LPBF was investigated.
-- We introduced an innovative structural design for TPMS lattice structures called multi-symmetrical TPMS scaffold with varying orientations. 
+- I introduced an innovative structural design for TPMS lattice structures called multi-symmetrical TPMS scaffold with varying orientations. 
 
 
 </div>
@@ -51,17 +51,18 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/Ga2O3/structure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exceptional shape memory effect and superelasticity of ultra-light Gyroid TPMS lattice sturctures fabricated laser powder bed fusion](CV_RuijiaZhang.pdf)
+[Exceptional shape memory effect and superelasticity of ultra-light Gyroid TPMS lattice sturctures fabricated laser powder bed fusion](Paper-2.pdf) (My signature work)
 
-**Date**: 06/2022-07/2023
+**Date**: 01/2023-Present
 
-**Role**: Student Researcher, supervised by [Prof. Wei Shen](https://technology.whu.edu.cn/info/1016/1914.htm), WHU
+**Role**: Principal Investigator, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129), WHUT
 
-**Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang, Wei Shen.
+**Di Lin**, Lei Yang, Yunlong Ren, Mengying Chen, Siqi Wu, Hui Qiao, Hejiang Xu,Chunze Yan and Yusheng Shi.
 
 **Description**
-- I investigated the effect of strain on the bandgap and effective mass tunability of β-Ga2O3 using the GGA+U method based on density functional theory.
-- The indirect-direct bandgap transition and electron mobility anisotropy in β-Ga2O3 under strain were discovered, suggesting potential applications of strain engineering in modulating its electronic properties.
+- I examined manufacturing fedelity using VGSTUDIO MAX 3.4, comparing high and low enrgy densiy.
+- After conducing unixial compressive experiments on specimens fabricated by LPBF, I systematically analyzed the compressive mechanical properties and behavior. Additionally, we designed special experiments to their superelasticity and shape memory effect.
+- The deformation mechanics of ultra-light Ni-Ti Gyroid TPMS lattice structures were revealed through finite element analysis.
 </div>
 </div>
 
@@ -70,11 +71,11 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 
 [Bionic Robot Fish](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629)
 
-**Date**: 09/2021-06/2022
+**Date**: 06/2023-Present
 
-**Role**: Team Leader, supervised by Prof. Deng Li and Prof. Min Li, WHU
+**Role**: Co first author, supervised by Prof. Lei Yang and Assoc. Prof. Cong Zhang, WHUT
 
-**Ruijia Zhang**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
+Mengying Chen, **Di Lin**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
 
 [**video**](https://youtu.be/oTg_eVXxm2c)
 
