@@ -88,20 +88,18 @@ Mengying Chen, **Di Lin**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/heat-powered vehicle/Car.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Heat-Powered Vehicle](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213)
+[The mechanical properties of Ni-Ti Gyroid TPMS lattice structures with varying orientations and their influence on crack propagation control]
 
-**Date**: 09/2020-09/2021
+**Date**: 01/2023-Present
 
-**Role**: Team Leader, supervised by Prof. Xiaosun Wang and Prof. Min Li, WHU
+**Role**: Co first author, supervised by Prof. Lei Yang, WHUT
 
-**Ruijia Zhang**, Wenke Zhou, Zibin Nian
-
-[**video**](https://youtu.be/gkrrsqVv6eA)
+Yunlong Ren, **Di Lin**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu Zibin
 
 **Description**
-- I designed and produced an integrated thermodynamic vehicle powered by the Stirling engine and completed the closed-loop obstacle avoidance trajectory with a purely mechanical structure. Through fine-tuning mechanisms and CNC machining, the trajectory accuracy is improved by 50%.
-- Our team shattered the university record by winning the National Gold Award (1.43%).
-- I served as a teaching assistant in a boot camp based on this project, training students in basic engineering skills.
+- The 3D models of multi-symmetrical Gyroid TPMS lattice structures with different orientations were designed using triangular implicit functions.
+- I was tasked with the deformation mechanics of the structures using finite element method.
+- I assisted my seniors in conducting uniaxial compressive experiments and the analysis of fatigue properties of the lattice structures.
 
 </div>
 </div>
@@ -150,9 +148,8 @@ Mengying Chen, **Di Lin**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
 - *2019.09* The Second Prize, the 36th Chinese Physics Olympiad
 
 # 📖 Educations
-- *2020.09 - 2024.06*, Undergraduate, Wuhan University, Hubei 
-- *2017.09 - 2020.06*, Mianyang Middle School, Sichuan
+- *2020.09 - 2024.06*, Undergraduate, Wuhan University of Technology, Hubei 
+- *2017.09 - 2020.06*, Shunde No.1 High School, Guangdong
 
-# 👩‍🏫 Teaching Assistant
-- *2022.06 - 2022.07*, Industrial Training Course, WHU——Prepared instruction materials and taught CNC milling skills to undergraduates.
-- *2021.09 - 2022.02*, Mechanical Vehicle Training Camp, WHU——Trained students in engineering skills, focusing on mechanical vehicle design, manufacturing, and tuning.
+# 👩‍🏫 Research Assistant
+- *2024.08 - 2025.08(expected)*, Research on topology optimization of TPMS lattice sturctures and their mechanical properties, supervised by [Prof. Yu Wang(王煜)](https://scholar.google.com/citations?hl=zh-CN&user=Oo7c22wAAAAJ) GBU.
