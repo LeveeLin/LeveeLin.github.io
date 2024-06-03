@@ -19,9 +19,9 @@ redirect_from:
 # 👩‍🎓 About Me
 I am currently focusing on **TPMS lattice structure, Metal alloys and Additive manufacturing**, as I pursue my Bachelor's degree in Mechanical design, manufacture & its automation at the School of Transportation and Logistics Engineering, Wuhan University of Technology. Presently, I'm conducting researches on Effects of volume fraction and interlacing number on Ti6Al4V multicell interlacing Gyroid TPMS lattice structures supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129). 
 
-I've received the National Scholarship twice, in 2021 and 2022, and was recognized as one of the "Top 10 Students" in my school. 
+I have been awarded the Second-class Scholarship twice, in 2022 and 2023, and was hornored as one of the "Top Graduates of the Class of 2024" at my school. 
 
-My research journey began with First-principles calculations in semiconductors and has evolved to the current robotics focus, as I gravitated towards a deep fascination with exploring advanced and novel robotic mechanisms that hold the potential for real-world adoption. 
+My research journey began with the structural design of Triply period minimal surfaces(TPMS) and additive manufacturing when I was a sophomore. I held the belif that additive manufacturing can significantly shape the development of global economy, as this technique allows for production of architectures with extremely complicated shapes using fewer raw materials. 
 
 You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 
@@ -30,7 +30,7 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/soft hand/description.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A tendon-driven soft hand for dexterous manipulation](https://miaoli.github.io/research/)
+[TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces](https://miaoli.github.io/research/)
 
 **Date**: 08/2023-present
 
