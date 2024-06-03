@@ -51,7 +51,7 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/Ga2O3/structure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exceptional shape memory effect and superelasticity of ultra-light Gyroid TPMS lattice sturctures fabricated laser powder bed fusion](https://www.sciencedirect.com/science/article/pii/S221137972300709X)
+[Exceptional shape memory effect and superelasticity of ultra-light Gyroid TPMS lattice sturctures fabricated laser powder bed fusion](CV_RuijiaZhang.pdf)
 
 **Date**: 06/2022-07/2023
 
