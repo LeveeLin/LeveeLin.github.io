@@ -1,4 +1,4 @@
----
+![image](https://github.com/LeveeLin/DiLin.github.io/assets/115198206/b3cfa972-2969-40b8-86eb-bd1148d9d70f)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👩‍🎓 About Me
-I am currently focusing on **Additive manufacturing**, as I pursue my Bachelor's degree in Mechanical Engineering at the School of Power and Mechanical Engineering, Wuhan University. Presently, I'm working on a research project supervised by [Prof. Miao Li(李淼)](https://miaoli.github.io/). 
+I am currently focusing on **TPMS lattice structure, Metal alloys and Additive manufacturing**, as I pursue my Bachelor's degree in Mechanical design, manufacture & its automation at the School of Transportation and Logistics Engineering, Wuhan University of Technology. Presently, I'm conducting researches on Effects of volume fraction and interlacing number on Ti6Al4V multicell interlacing Gyroid TPMS lattice structures supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129). 
 
 I've received the National Scholarship twice, in 2021 and 2022, and was recognized as one of the "Top 10 Students" in my school. 
 
