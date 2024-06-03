@@ -30,7 +30,7 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/soft hand/description.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces]([https://miaoli.github.io/research/](https://www.sciencedirect.com/science/article/pii/S2950431724000145))
+[TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces](https://www.sciencedirect.com/science/article/pii/S2950431724000145)
 
 **Date**: 03/2022-03/2024
 
