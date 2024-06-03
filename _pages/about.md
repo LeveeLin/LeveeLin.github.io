@@ -32,7 +32,7 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 
 [TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces]([https://miaoli.github.io/research/](https://www.sciencedirect.com/science/article/pii/S2950431724000145))
 
-**Date**: 03/2022-04/2022
+**Date**: 03/2022-03/2024
 
 **Role**: Principal Investigator, supervised by [Prof. Lei Yang(杨磊)]([https://miaoli.github.io/](https://www.researchgate.net/profile/Lei-Yang-129)), WHUT
 
@@ -51,7 +51,7 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/Ga2O3/structure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Modulating Electronic Properties of β-Ga2O3 by Strain Engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X)
+[Exceptional shape memory effect and superelasticity of ultra-light Gyroid TPMS lattice sturctures fabricated laser powder bed fusion](https://www.sciencedirect.com/science/article/pii/S221137972300709X)
 
 **Date**: 06/2022-07/2023
 
