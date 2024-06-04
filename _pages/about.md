@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 👩‍🎓 About Me
+# 👨‍🎓 About Me
 I am currently focusing on **TPMS lattice structure, Mechanical metamaterials and Additive manufacturing**, as I pursue my Bachelor's degree in Mechanical design, manufacture & its automation at the School of Transportation and Logistics Engineering, Wuhan University of Technology. Presently, I'm conducting researches on Effects of volume fraction and interlacing number on Ti6Al4V multicell interlacing Gyroid TPMS lattice structures supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129). In August, I will follow [Chair Prof. Yu Wang(王煜)](https://scholar.google.com/citations?hl=zh-CN&user=Oo7c22wAAAAJ) to conducte researches on topology optimization of TPMS and additive manufacturing.
 
 I have been awarded the Second-class Scholarship twice, in 2022 and 2023, and was hornored as one of the "Top Graduates of the Class of 2024" at my school. 
