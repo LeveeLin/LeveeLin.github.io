@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👩‍🎓 About Me
-I am currently focusing on **TPMS lattice structure, Metal alloys and Additive manufacturing**, as I pursue my Bachelor's degree in Mechanical design, manufacture & its automation at the School of Transportation and Logistics Engineering, Wuhan University of Technology. Presently, I'm conducting researches on Effects of volume fraction and interlacing number on Ti6Al4V multicell interlacing Gyroid TPMS lattice structures supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129). 
+I am currently focusing on **TPMS lattice structure, Metal alloys and Additive manufacturing**, as I pursue my Bachelor's degree in Mechanical design, manufacture & its automation at the School of Transportation and Logistics Engineering, Wuhan University of Technology. Presently, I'm conducting researches on Effects of volume fraction and interlacing number on Ti6Al4V multicell interlacing Gyroid TPMS lattice structures supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129). In August, I will follow [Chair Prof. Yu Wang(王煜)](https://scholar.google.com/citations?hl=zh-CN&user=Oo7c22wAAAAJ) to conducte researches on topology optimization of TPMS and additive manufacturing.
 
 I have been awarded the Second-class Scholarship twice, in 2022 and 2023, and was hornored as one of the "Top Graduates of the Class of 2024" at my school. 
 
@@ -131,7 +131,7 @@ Yunlong Ren<sup>1</sup>, **Di Lin<sup>1</sup>**, Lei Yang, Hejiang Xu, Dianyu Ta
 ,  **Submitted to Additive Manufacturing**
 - [Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation](Paper-3.pdf), Mengying Chen<sup>1</sup>, **Di Lin<sup>1</sup>**, Hui Qiao, Lei Yang, **To be submitted**
 - [The mechanical properties of Ni-Ti Gyroid TPMS lattice structures with varying orientations and their influence on crack propagation control] Yunlong Ren<sup>1</sup>, **Di Lin<sup>1</sup>**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu, **To be submitted**
-- [Heat energy driving vehicle supported by vertical plate](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213), **Ruijia Zhang**, Min Li, Xusheng Cheng, Kailang She. CN 215513213 U, 2022
+- [Fully automated trasporter for yard bridges](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213), **Ruijia Zhang**, Min Li, Xusheng Cheng, Kailang She. CN 215513213 U, 2022
 
 # 🎖 Honors and Awards
 - *2024.05* Top Graduates of the Class of 2024, WHUT
