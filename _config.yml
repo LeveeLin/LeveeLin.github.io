@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ruijia Zhang"
-description              : "Focusing on bio-inspired robotic design and control"
+title                    : "Di Lin"
+description              : "Focusing on TPMS lattice structure, Mechanical metamaterials and Additive manufacturing"
 repository               : "husky1900/rheazhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ruijia Zhang"
+  name             : "Di Lin"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Major in Mechanical Engineering<br>Wuhan Universit(WHU), School of Power and Mechanical Engineering"
   location         : "Hubei, China"
