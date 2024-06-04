@@ -125,14 +125,14 @@ Yunlong Ren, **Di Lin**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu Zibin
 
 
 # 📝 Publications and Patents
-- [Modulating electronic properties of β-Ga2O3 by strain engineering](https://www.sciencedirect.com/science/article/pii/S221137972300709X), **Ruijia Zhang**, Min Li, Gai Wu, Lijie Li, Kang Liang & Wei Shen, **Results in Physics 2023**
+- [TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces](https://www.sciencedirect.com/science/article/pii/S2950431724000145), **Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang, **Additive Manufacturing Frontiers 2023**
 - [Design and research of intermittent transmission mechanism based on curved groove](https://kns.cnki.net/kcms2/article/abstract?v=PhqKDHt8vRAb-KGL_-szYL1TNuSMiQRseq943SVNlzoJuQaZ6Dz6FWG7PV7rJgRKtFP3UD9b1_SmIOzUQAi811HN5piyRHNKNNgTL8VqtUGEQ9sE0dctJc_YNEiMwORZct1acnQ7rFXoQN2Vq8xu2itsJswRA4nJ&uniplatform=NZKPT&language=CHS), Min Li, Xiaoqiao Chen, Fenglian Song, Wenke Zhou, **Ruijia Zhang**, **Journal of Wuhan University: Engineering Science Edition 2022**
 - [Tail fin propelled autonomous swimming bionic robotic fish based on composite connecting rod mechanism](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629), **Ruijia Zhang**, Min Li, Wenke Zhou, Zibin Nian, Ning Luo & Xiaoya He. CN 114537629 A, 2023
 - [Heat energy driving vehicle supported by vertical plate](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213), **Ruijia Zhang**, Min Li, Xusheng Cheng, Kailang She. CN 215513213 U, 2022
 
 # 🎖 Honors and Awards
-- *2023.10* The First Prize, Liudaoyu Creative Learning Award, WHU
-- *2023.8* First Prize in the "586"
+- *2024.05* Top Graduates of the Class of 2024, WHUT
+- *2023.8* First Prize in the "2023 Chinese University Students Mechanical Engineering Innovation and Creativity Competition - Mining Cup in Logistics Technology (Cranes)." Organized by the Chinese Mechanical Engineering Society, this national-level competition had a low award rate of fewer than 6.7%.
 - *2022-2023* Sanhao (Student with Triple accreditations) Student, Wuhan University of Technology. Recognized for ranking in the top 12% in both academic performance and overall education at the university level.
 - *2022-2023* Second-class Scholarship, Wuhan University of Technology. Awarded to students who are in top 6% of their class based on academic performance at the university level.
 - *2021-2022* Sanhao (Student with Triple accreditations) Student, Wuhan University of Technology. Recognized for ranking in the top 12% in both academic performance and overall education at the university level.
@@ -144,4 +144,5 @@ Yunlong Ren, **Di Lin**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu Zibin
 - *2017.09 - 2020.06*, Shunde No.1 High School, Guangdong
 
 # 👩‍🏫 Research Assistant
+- *2022.02 - 2024.07*, Research on the design of TPMS lattice sturctures and their mechanical properties, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129) WHUT.
 - *2024.08 - 2025.08(expected)*, Research on topology optimization of TPMS lattice sturctures and their mechanical properties, supervised by [Prof. Yu Wang(王煜)](https://scholar.google.com/citations?hl=zh-CN&user=Oo7c22wAAAAJ) GBU.
