@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Projects"
-    url: "/#-projects-"
+    url: "/#-projects"
     
   - title: "Publications"
     url: "/#-publications-and-patents"
@@ -16,4 +16,4 @@ main:
     url: "/#-educations"
 
   - title: "Research Assistant"
-    url: "/#-reaching-assistant"
+    url: "/#-research-assistant"
