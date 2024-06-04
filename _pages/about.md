@@ -104,7 +104,7 @@ Yunlong Ren<sup>1</sup>, **Di Lin<sup>1</sup>**, Lei Yang, Hejiang Xu, Dianyu Ta
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/wardrobe.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-5.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 
 [Mechanical properties and mass transport characteristic of laser powder bed fused multicell interlacing Gyroid TPMS metallic biomaterials for bone scaffolds]
 
