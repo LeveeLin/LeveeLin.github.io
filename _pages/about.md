@@ -75,7 +75,7 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 
 **Role**: Co first author, supervised by Prof. Lei Yang and Assoc. Prof. Cong Zhang, WHUT
 
-Mengying Chen, **Di Lin**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
+Mengying Chen, **Di Lin**, Hui Qiao, Lei Yang.
 
 **Description**
 -  I designed and generated multi-cell interlacing IWP lattice models using matlab.
@@ -94,7 +94,7 @@ Mengying Chen, **Di Lin**, Wenke Zhou, Zibin Nian, Ning Luo, Xiaoya He.
 
 **Role**: Co first author, supervised by Prof. Lei Yang, WHUT
 
-Yunlong Ren, **Di Lin**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu Zibin
+Yunlong Ren, **Di Lin**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu 
 
 **Description**
 - The 3D models of multi-symmetrical Gyroid TPMS lattice structures with different orientations were designed using triangular implicit functions.
@@ -126,8 +126,10 @@ Yunlong Ren, **Di Lin**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu Zibin
 
 # 📝 Publications and Patents
 - [TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces](https://www.sciencedirect.com/science/article/pii/S2950431724000145), **Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang, **Additive Manufacturing Frontiers 2023**
-- [Design and research of intermittent transmission mechanism based on curved groove](https://kns.cnki.net/kcms2/article/abstract?v=PhqKDHt8vRAb-KGL_-szYL1TNuSMiQRseq943SVNlzoJuQaZ6Dz6FWG7PV7rJgRKtFP3UD9b1_SmIOzUQAi811HN5piyRHNKNNgTL8VqtUGEQ9sE0dctJc_YNEiMwORZct1acnQ7rFXoQN2Vq8xu2itsJswRA4nJ&uniplatform=NZKPT&language=CHS), Min Li, Xiaoqiao Chen, Fenglian Song, Wenke Zhou, **Ruijia Zhang**, **Journal of Wuhan University: Engineering Science Edition 2022**
-- [Tail fin propelled autonomous swimming bionic robotic fish based on composite connecting rod mechanism](https://worldwide.espacenet.com/patent/search/family/081678703/publication/CN114537629A?q=CN%20114537629), **Ruijia Zhang**, Min Li, Wenke Zhou, Zibin Nian, Ning Luo & Xiaoya He. CN 114537629 A, 2023
+- [Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation](Paper-3.pdf)**My signature work**,**Di Lin**, Lei Yang, Yunlong Ren, Mengying Chen, Siqi Wu, Hui Qiao, Hejiang Xu,Chunze Yan and Yusheng Shi.
+, **Submitted to Additive Manufacturing**
+- [Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation](Paper-3.pdf), Mengying Chen, **Di Lin**, Hui Qiao, Lei Yang, **To be submitted**
+- [The mechanical properties of Ni-Ti Gyroid TPMS lattice structures with varying orientations and their influence on crack propagation control] Yunlong Ren, **Di Lin**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu, **To be submitted**
 - [Heat energy driving vehicle supported by vertical plate](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213), **Ruijia Zhang**, Min Li, Xusheng Cheng, Kailang She. CN 215513213 U, 2022
 
 # 🎖 Honors and Awards
