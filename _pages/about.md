@@ -85,7 +85,7 @@ Mengying Chen<sup>1</sup>, **Di Lin<sup>1</sup>**, Hui Qiao, Lei Yang.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='videos/heat-powered vehicle/Car.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-4.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 The mechanical properties of Ni-Ti Gyroid TPMS lattice structures with varying orientations and their influence on crack propagation control
