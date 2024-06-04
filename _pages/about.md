@@ -106,6 +106,24 @@ Yunlong Ren<sup>1</sup>, **Di Lin<sup>1</sup>**, Lei Yang, Hejiang Xu, Dianyu Ta
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/wardrobe.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 
+[Mechanical properties and mass transport characteristic of laser powder bed fused multicell interlacing Gyroid TPMS metallic biomaterials for bone scaffolds]
+
+**Date**: 05/2024-Present
+
+**Role**: Principal Investigator, supervised by Prof. Lei Yang, WHUT
+
+**Di Lin**, Yang Lei
+
+**Description**
+- Inspired by Chinese Taichi, I utilized coding to design and generate multi-cell interlacing Gyroid TPMS lattice structures.
+- According to guidance from my supervisor, I expected to complete the research on compressive mechanical properties of the lattice structures through uniaxial compression tests and finite element analysis before July of this year.
+- Based on my capabilities, I expected to reveal the mass transportation characteristic of these structures through a purpose-designed permeability test and liaminar computational fluid dynamics (CFD) analysis using Comsol Multiphysics software before August of this year.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/wardrobe.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+
 [Smart Wardrobe ——Klotski](http://openir.whu.edu.cn/AchievementDetail/VIP_a39cbc17-86b7-4185-87f8-ff844334f6c9)
 
 **Date**: 10/2021-11/2022
@@ -122,7 +140,6 @@ Yunlong Ren<sup>1</sup>, **Di Lin<sup>1</sup>**, Lei Yang, Hejiang Xu, Dianyu Ta
 
 </div>
 </div>
-
 
 # 📝 Publications and Patents
 - [TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces](https://www.sciencedirect.com/science/article/pii/S2950431724000145),
