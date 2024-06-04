@@ -124,19 +124,20 @@ Yunlong Ren<sup>1</sup>, **Di Lin<sup>1</sup>**, Lei Yang, Hejiang Xu, Dianyu Ta
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/wardrobe.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 
-[Smart Wardrobe ——Klotski](http://openir.whu.edu.cn/AchievementDetail/VIP_a39cbc17-86b7-4185-87f8-ff844334f6c9)
+[Spiral Mover]
 
-**Date**: 10/2021-11/2022
+**Date**: 01/2023-08/2023
 
-**Role**: Team Leader, supervised by Prof. Min Li, WHU
+**Role**: Participant, supervised by Prof. Hanbin Xiao, WHUT
 
-**Ruijia Zhang**, Zhihang Wei, Jingrun Cai, Haoming Chen, Xinyitian
+Kang Xia, Ruihan Liu, Gan Liu, **Di Lin**, Haotian Wang
 
 [**video**](https://youtu.be/--K_LBozzOY)
 
 **Description**
-- I improved a two-way loop procedure of the smart wardrobe based on PLC program control.
-- I optimized the intermittent transmission mechanism based on Adams dynamical simulation and SolidWorks Topology to eliminate the flexible impact and achieve the lightweight design of the groove wheels.
+- I used a simulation software, Abauqus, to verify the strength of the Spiral Mover.
+- I was in charge of 3D modeling the elevating mechanisms.
+- We utilized laser ranging to enable the identification function of the Spiral Mover. During the process, I was also responsible for the coding and tune-up using Arduino.
 
 </div>
 </div>
