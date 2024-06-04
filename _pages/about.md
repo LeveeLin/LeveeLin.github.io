@@ -122,7 +122,7 @@ Yunlong Ren<sup>1</sup>, **Di Lin<sup>1</sup>**, Lei Yang, Hejiang Xu, Dianyu Ta
 </div>
 </div>
 
-<div class='Spiral-Mover'><div class='Spiral-Mover-image'><div><img src='images/Spiral-Mover.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<div class='Spiral-Mover'><div class='Spiral-Mover-image'><div><img src='images/Spiral-Mover.jpg' alt="sym" width="50%"></div></div><div class='paper-box-text' markdown="1">
 
 [Spiral Mover]
 
