@@ -25,7 +25,7 @@ My research journey began with the structural design of Triply period minimal su
 
 You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 
-# ⚙️Projects
+# ⚙️ Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
