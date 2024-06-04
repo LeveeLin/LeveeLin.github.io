@@ -27,7 +27,7 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 
 # ⚙️ Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='videos/soft hand/description.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces](https://www.sciencedirect.com/science/article/pii/S2950431724000145)
@@ -88,7 +88,7 @@ Mengying Chen<sup>1</sup>, **Di Lin<sup>1</sup>**, Hui Qiao, Lei Yang.
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/heat-powered vehicle/Car.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The mechanical properties of Ni-Ti Gyroid TPMS lattice structures with varying orientations and their influence on crack propagation control]
+The mechanical properties of Ni-Ti Gyroid TPMS lattice structures with varying orientations and their influence on crack propagation control
 
 **Date**: 01/2023-Present
 
@@ -106,7 +106,7 @@ Yunlong Ren<sup>1</sup>, **Di Lin<sup>1</sup>**, Lei Yang, Hejiang Xu, Dianyu Ta
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-5.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 
-[Mechanical properties and mass transport characteristic of laser powder bed fused multicell interlacing Gyroid TPMS metallic biomaterials for bone scaffolds]
+Mechanical properties and mass transport characteristic of laser powder bed fused multicell interlacing Gyroid TPMS metallic biomaterials for bone scaffolds **Ongoing work**
 
 **Date**: 05/2024-Present
 
@@ -168,4 +168,4 @@ Kang Xia, Ruihan Liu, Gan Liu, **Di Lin**, Haotian Wang
 
 # 👩‍🏫 Research Assistant
 - *2022.02 - 2024.07*, Research on the design of TPMS lattice sturctures and their mechanical properties, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129) WHUT.
-- *2024.08 - 2025.08(expected)*, Research on topology optimization of TPMS lattice sturctures and their mechanical properties, supervised by [Prof. Yu Wang(王煜)](https://scholar.google.com/citations?hl=zh-CN&user=Oo7c22wAAAAJ) GBU.
+- *2024.08 - 2025.08 (expected)*, Research on topology optimization of TPMS lattice sturctures and their mechanical properties, supervised by [Prof. Yu Wang(王煜)](https://scholar.google.com/citations?hl=zh-CN&user=Oo7c22wAAAAJ) GBU.
