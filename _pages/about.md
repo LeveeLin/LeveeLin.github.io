@@ -125,9 +125,10 @@ Yunlong Ren, **Di Lin**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu
 
 
 # 📝 Publications and Patents
-- [TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces](https://www.sciencedirect.com/science/article/pii/S2950431724000145), **Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang, **Additive Manufacturing Frontiers 2023**
+- [TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces](https://www.sciencedirect.com/science/article/pii/S2950431724000145),
+- **Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang, **Additive Manufacturing Frontiers 2023**
 - [Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation](Paper-3.pdf)**My signature work**,**Di Lin**, Lei Yang, Yunlong Ren, Mengying Chen, Siqi Wu, Hui Qiao, Hejiang Xu,Chunze Yan and Yusheng Shi.
-, **Submitted to Additive Manufacturing**
+,  **Submitted to Additive Manufacturing**
 - [Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation](Paper-3.pdf), Mengying Chen, **Di Lin**, Hui Qiao, Lei Yang, **To be submitted**
 - [The mechanical properties of Ni-Ti Gyroid TPMS lattice structures with varying orientations and their influence on crack propagation control] Yunlong Ren, **Di Lin**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu, **To be submitted**
 - [Heat energy driving vehicle supported by vertical plate](https://worldwide.espacenet.com/patent/search/family/079806938/publication/CN215513213U?q=CN%20215513213), **Ruijia Zhang**, Min Li, Xusheng Cheng, Kailang She. CN 215513213 U, 2022
