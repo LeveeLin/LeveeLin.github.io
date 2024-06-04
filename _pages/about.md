@@ -75,7 +75,7 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 
 **Role**: Co first author, supervised by Prof. Lei Yang and Assoc. Prof. Cong Zhang, WHUT
 
-Mengying Chen<sup>1</sup></p>, **Di Lin**, Hui Qiao, Lei Yang.
+Mengying Chen<sup>1</sup></p>, **Di Lin<sup>1</sup></p>**, Hui Qiao, Lei Yang.
 
 **Description**
 -  I designed and generated multi-cell interlacing IWP lattice models using matlab.
