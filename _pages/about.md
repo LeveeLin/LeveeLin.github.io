@@ -66,7 +66,7 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='videos/fish robot/Rendering.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='Paper-3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation](Paper-3.pdf)
