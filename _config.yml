@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Di Lin"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Major in Mechanical Engineering<br>Wuhan Universit(WHU), School of Power and Mechanical Engineering"
+  avatar           : "images/Levee.jpg"
+  bio              : "Major in Mechanical Design, manufacture & Its Automation<br>Wuhan Universit of Technology(WHUT), School of Transportation and Logistics Engineering"
   location         : "Hubei, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7zzM73MAAAAJ&hl=en"
-  email            : "zhangruijia12@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&user=10y66koAAAAJ"
+  email            : "dilin010222@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Di-Lin-8"
   uri              :
   bitbucket        :
   codepen          :
