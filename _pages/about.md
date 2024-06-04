@@ -69,7 +69,7 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src='videos/fish robot/Rendering.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation](Paper-2.pdf)
+[Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation](Paper-3.pdf)
 
 **Date**: 06/2023-Present
 
@@ -132,20 +132,12 @@ Yunlong Ren, **Di Lin**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu Zibin
 
 # 🎖 Honors and Awards
 - *2023.10* The First Prize, Liudaoyu Creative Learning Award, WHU
-- *2023.10* Professional A-level Scholarship, WHU
-- *2023.10* Outstanding Volunteer, 7th International Conference of Bionic Engineering. 
-- *2023.04* The First Prize, 1st Inno Innovation Achievement Award, WHU (5th in the whole school)
-- *2022.10* National Scholarship (Undergraduate) (Top 1%)
-- *2022.10* Professional A-level Scholarship, WHU
-- *2022.09* The First Prize, 16th China Intelligent Manufacturing Challenge
-- *2022.07* National Second Prize, 5th National College Intelligent Robot Creative Competition
-- *2022.05* The First Prize (team leader), 10th National College Mechanical Innovation Design Competition
-- *2022.04* “Top 10 students” (10/1200), School of Power and Mechanical Engineering, WHU
-- *2022.04* “Advanced Individual in Scientific and Technological Innovation”, School of Power and Mechanical Engineering, WHU
-- *2021.11* National Gold Award (team leader, award rate 1.43%), 7th Chinese Engineering and Innovation Competition
-- *2021.10* National Scholarship (Undergraduate) (Top 1%)
-- *2021.10* Professional A-level Scholarship, WHU
-- *2019.09* The Second Prize, the 36th Chinese Physics Olympiad
+- *2023.8* First Prize in the "586"
+- *2022-2023* Sanhao (Student with Triple accreditations) Student, Wuhan University of Technology. Recognized for ranking in the top 12% in both academic performance and overall education at the university level.
+- *2022-2023* Second-class Scholarship, Wuhan University of Technology. Awarded to students who are in top 6% of their class based on academic performance at the university level.
+- *2021-2022* Sanhao (Student with Triple accreditations) Student, Wuhan University of Technology. Recognized for ranking in the top 12% in both academic performance and overall education at the university level.
+- *2021-2022* Second-class Scholarship, Wuhan University of Technology. Awarded to students who are in top 6% of their class based on academic performance at the university level.
+
 
 # 📖 Educations
 - *2020.09 - 2024.06*, Undergraduate, Wuhan University of Technology, Hubei 
