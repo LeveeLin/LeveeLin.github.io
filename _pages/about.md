@@ -120,7 +120,8 @@ Role: **Principal Investigator**, supervised by Prof. Lei Yang, WHUT
 
 Researchers: **Di Lin**, Yang Lei
 
-Brief:
+Brief:This research aims to develop and evaluate triply periodic minimal surface (TPMS) multi-cell interlacing metamaterials for enhanced vibrational isolation.
+
 - **Inspiration and Design:**
   •	Inspired by Chinese Taichi.
   •	Utilized advanced coding techniques to design and generate multicell interlacing Gyroid TPMS lattice structures.
@@ -153,10 +154,10 @@ Researchers: Kang Xia, Ruihan Liu, Gan Liu, **Di Lin**, Haotian Wang
 [**video-Real object**](https://youtu.be/THfzr6ojVPM)
 
 **Brief:**
-•	Utilized Abaqus simulation software to verify the structural strength of the Spiral Movement Device.
-•	Responsible for 3D modeling the elevating mechanisms.
-•	Implemented laser ranging to enable the identification function of the Spiral Movement Device.
-•	Oversaw the coding and fine-tuning processes using Arduino.
+-	Utilized Abaqus simulation software to verify the structural strength of the Spiral Movement Device.
+-	Responsible for 3D modeling the elevating mechanisms.
+-	Implemented laser ranging to enable the identification function of the Spiral Movement Device.
+-	Oversaw the coding and fine-tuning processes using Arduino.
 
 
 </div>
