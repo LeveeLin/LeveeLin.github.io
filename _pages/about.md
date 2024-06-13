@@ -58,7 +58,7 @@ Duration: January 2023 - Present
 
 Contributors: **Di Lin**, Lei Yang*, Yunlong Ren, Mengying Chen, Siqi Wu, Hui Qiao, Hejiang Xu,Chunze Yan and Yusheng Shi.
 
-Brief
+Brief:
 This research focuses on the fabrication and analysis of ultra-light Gyroid TPMS lattice structures using Laser Powder Bed Fusion (LPBF). The project highlights significant findings in shape memory effect and superelasticity.
 
 - **Manufacturing Fidelity**: Employed VGSTUDIO MAX 3.4 to examine manufacturing fidelity, comparing high and low energy density parameters.
