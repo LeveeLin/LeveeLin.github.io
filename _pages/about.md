@@ -120,7 +120,7 @@ Role: **Principal Investigator**, supervised by Prof. Lei Yang, WHUT
 
 Researchers: **Di Lin**, Yang Lei
 
-Brief:This research aims to develop and evaluate triply periodic minimal surface (TPMS) multi-cell interlacing metamaterials for enhanced vibrational isolation.
+Brief: This research aims to develop and evaluate triply periodic minimal surface (TPMS) multi-cell interlacing metamaterials for enhanced vibrational isolation.
 
 - **Inspiration and Design:**
   •	Inspired by Chinese Taichi.
