@@ -32,16 +32,15 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 
 [TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces](https://www.sciencedirect.com/science/article/pii/S2950431724000145)
 
-**Date**: 03/2022-03/2024
+Date: 03/2022-03/2024
 
-**Role**: Principal Investigator, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129), WHUT
+**Role**: **Principal Investigator**, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129), WHUT
 
-**Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang.
+Team Members: **Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang*.
 
 **Description**: 
-- I created a software named **TPMS_Scaffold_Generator**, which can create different TPMS lattice structures, facilitating researcheres to throughly investigating their geometrical, mechanical, thermal and vibrational characteristics.
-- The compressive mechanical behavior of Ti-6Al-4V Fischer-Koch TPMS lattice stuctures with different gradients fabricated using LPBF was investigated.
-- I introduced an innovative structural design for TPMS lattice structures called multi-symmetrical TPMS scaffold with varying orientations. 
+- Our team developed the TPMS_Scaffold_Generator, a software tool designed to generate various TPMS lattice structures. This tool enables researchers to conduct comprehensive investigations into the geometrical, mechanical, thermal, and vibrational properties of these structures.
+- Our research focused on the compressive mechanical behavior of Ti-6Al-4V Fischer-Koch TPMS lattice structures with different gradients, fabricated using Laser Powder Bed Fusion (LPBF). Additionally, I introduced an innovative design for TPMS lattice structures, termed multi-symmetrical TPMS scaffolds with varying orientations. 
 
 
 </div>
@@ -51,36 +50,40 @@ You can find my CV here: [CV](CV_RuijiaZhang.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exceptional shape memory effect and superelasticity of ultra-light Gyroid TPMS lattice sturctures fabricated laser powder bed fusion](Paper-2.pdf) (**My signature work**)
+[**Exceptional shape memory effect and superelasticity of ultra-light Gyroid TPMS lattice sturctures fabricated laser powder bed fusion**](Paper-2.pdf) (**My signature work**)
 
-**Date**: 01/2023-Present
+Duration: January 2023 - Present
 
-**Role**: Principal Investigator, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129), WHUT
+**Role**: **Principal Investigator**, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129), WHUT
 
-**Di Lin**, Lei Yang, Yunlong Ren, Mengying Chen, Siqi Wu, Hui Qiao, Hejiang Xu,Chunze Yan and Yusheng Shi.
+Contributors: **Di Lin**, Lei Yang*, Yunlong Ren, Mengying Chen, Siqi Wu, Hui Qiao, Hejiang Xu,Chunze Yan and Yusheng Shi.
 
-**Description**
-- I examined manufacturing fedelity using VGSTUDIO MAX 3.4, comparing high and low enrgy densiy.
-- After conducing unixial compressive experiments on specimens fabricated by LPBF, I systematically analyzed the compressive mechanical properties and behavior. Additionally, we designed special experiments to their superelasticity and shape memory effect.
-- The deformation mechanics of ultra-light Ni-Ti Gyroid TPMS lattice structures were revealed through finite element analysis.
+**Brief**
+- This research focuses on the fabrication and analysis of ultra-light Gyroid TPMS lattice structures using Laser Powder Bed Fusion (LPBF). The project highlights significant findings in shape memory effect and superelasticity.
+- **Manufacturing Fidelity**: Employed VGSTUDIO MAX 3.4 to examine manufacturing fidelity, comparing high and low energy density parameters.
+- **Mechanical Properties Analysis**: Conducted uniaxial compressive experiments on LPBF-fabricated specimens, systematically analyzing their compressive mechanical properties and behavior.
+- **Deformation Mechanics**: Utilized finite element analysis to reveal the deformation mechanics of ultra-light Ni-Ti Gyroid TPMS lattice structures.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation](Paper-3.pdf)
+[**Triply Periodic Minimal Surface Multi-Cell Interlacing Metamaterials for Superior Vibrational Isolation**](Paper-3.pdf)
 
-**Date**: 06/2023-Present
+**Duration**: June 2023-Present
 
-**Role**: Co first author, supervised by Prof. Lei Yang and Assoc. Prof. Cong Zhang, WHUT
+**Role**: Co-First author, supervised by Prof. Lei Yang and Assoc. Prof. Cong Zhang, WHUT
 
-Mengying Chen<sup>1</sup>, **Di Lin<sup>1</sup>**, Hui Qiao, Lei Yang.
+Contributors: Mengying Chen<sup>1</sup>, **Di Lin<sup>1</sup>**, Hui Qiao, Lei Yang.
 
-**Description**
--  I designed and generated multi-cell interlacing IWP lattice models using matlab.
--  I was responsible for the quasi-static uniaxial compressive experiments and the manufacture of specimens fabricated by LPBF.
--  I conducted morphological analysis to study the surface features of samples and powders using SEM. Additionally, I assisted my seniors in researching the vibrational isolation properties of multi-cekk interlacing IWP lattice structures.
+Brief:
+This research aims to develop and evaluate triply periodic minimal surface (TPMS) multi-cell interlacing metamaterials for enhanced vibrational isolation.
+
+- **Design and Model Generation:** Designed and generated multi-cell interlacing IWP lattice models using MATLAB.
+- **Manufacturing and Experimental Responsibilities:** Conducted quasi-static uniaxial compressive experiments and oversaw the fabrication of specimens using Laser Powder Bed Fusion (LPBF).
+- **Morphological Analysis:** Performed morphological analysis of the surface features of samples and powders using Scanning Electron Microscopy (SEM).
+- **Vibrational Isolation Research:** Assisted in the investigation of the vibrational isolation properties of multi-cell interlacing IWP lattice structures.
 
 </div>
 </div>
@@ -88,58 +91,72 @@ Mengying Chen<sup>1</sup>, **Di Lin<sup>1</sup>**, Hui Qiao, Lei Yang.
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-4.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-The mechanical properties of Ni-Ti Gyroid TPMS lattice structures with varying orientations and their influence on crack propagation control
+**Mechanical Properties of Ni-Ti Gyroid TPMS Lattice Structures with Varying Orientations and Their Influence on Crack Propagation Control**
 
-**Date**: 01/2023-Present
+Duration: anuary 2023 - Present
 
-**Role**: Co first author, supervised by Prof. Lei Yang, WHUT
+Role: Co-First Author, supervised by Prof. Lei Yang, Wuhan University of Technology (WHUT)
 
-Yunlong Ren<sup>1</sup>, **Di Lin<sup>1</sup>**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu 
+Contributors:Yunlong Ren<sup>1</sup>, **Di Lin<sup>1</sup>**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu 
 
-**Description**
-- The 3D models of multi-symmetrical Gyroid TPMS lattice structures with different orientations were designed using triangular implicit functions.
-- I was tasked with the deformation mechanics of the structures using finite element method.
-- I assisted my seniors in conducting uniaxial compressive experiments and the analysis of fatigue properties of the lattice structures.
+Brief:
+This study investigates the mechanical properties of Ni-Ti Gyroid TPMS lattice structures with varying orientations and their impact on crack propagation control.
+- **Design of 3D Models:** Designed 3D models of multi-symmetrical Gyroid TPMS lattice structures with different orientations using triangular implicit functions.
+- **Deformation Mechanics Analysis:** Utilized the finite element method (FEM) to analyze the deformation mechanics of the structures.
+- **Experimental and Fatigue Analysis:** Assisted in conducting uniaxial compressive experiments and analyzing the fatigue properties of the lattice structures.
 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-5.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 
-Mechanical properties and mass transport characteristic of laser powder bed fused multicell interlacing Gyroid TPMS metallic biomaterials for bone scaffolds **Ongoing work**
+**Mechanical Properties and Mass Transport Characteristics of Laser Powder Bed Fused Multicell Interlacing Gyroid TPMS Metallic Biomaterials for Bone Scaffolds** 
+Ongoing Work
 
-**Date**: 05/2024-Present
+Date: 05/2024 - Present
 
-**Role**: Principal Investigator, supervised by Prof. Lei Yang, WHUT
+Role: **Principal Investigator**, supervised by Prof. Lei Yang, WHUT
 
-**Di Lin**, Yang Lei
+Researchers: **Di Lin**, Yang Lei
 
-**Description**
-- Inspired by Chinese Taichi, I utilized coding to design and generate multi-cell interlacing Gyroid TPMS lattice structures.
-- According to guidance from my supervisor, I expected to complete the research on compressive mechanical properties of the lattice structures through uniaxial compression tests and finite element analysis before July of this year.
-- Based on my capabilities, I expected to reveal the mass transportation characteristic of these structures through a purpose-designed permeability test and liaminar computational fluid dynamics (CFD) analysis using Comsol Multiphysics software before August of this year.
+Brief:
+- **Inspiration and Design:**
+  •	Inspired by Chinese Taichi.
+  •	Utilized advanced coding techniques to design and generate multicell interlacing Gyroid TPMS lattice structures.
+- **Research Objectives:**
+  **1.Mechanical Properties:**
+  •	Investigate the compressive mechanical properties of the lattice structures.
+  •	Methods: Uniaxial compression tests and finite element analysis.
+  •	Expected Completion: July 2024.
+  **2.Mass Transport Characteristics:**
+  •	Elucidate the mass transport characteristics of the structures.
+  •	Methods: Purpose-designed permeability test and laminar computational fluid      dynamics (CFD) analysis using COMSOL Multiphysics software.
+  •	Expected Completion: August 2024.
+
 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Spiral-Mover.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 
-[Spiral Mover]
+[**Strength Verification and Mechanism Design of a Spiral Movement Device**]
 
-**Date**: 01/2023-08/2023
+Date: 01/2023-08/2023
 
-**Role**: Participant, supervised by Prof. Hanbin Xiao, WHUT
+Role: Participant, supervised by Prof. Hanbin Xiao, WHUT
 
-Kang Xia, Ruihan Liu, Gan Liu, **Di Lin**, Haotian Wang
+Researchers: Kang Xia, Ruihan Liu, Gan Liu, **Di Lin**, Haotian Wang
 
 [**video-Animation**](https://youtu.be/RtcEVFDwNTU)
 
 [**video-Real object**](https://youtu.be/THfzr6ojVPM)
 
-**Description**
-- I used a simulation software, Abauqus, to verify the strength of the Spiral Mover.
-- I was in charge of 3D modeling the elevating mechanisms.
-- We utilized laser ranging to enable the identification function of the Spiral Mover. During the process, I was also responsible for the coding and tune-up using Arduino.
+**Brief:**
+•	Utilized Abaqus simulation software to verify the structural strength of the Spiral Movement Device.
+•	Responsible for 3D modeling the elevating mechanisms.
+•	Implemented laser ranging to enable the identification function of the Spiral Movement Device.
+•	Oversaw the coding and fine-tuning processes using Arduino.
+
 
 </div>
 </div>
