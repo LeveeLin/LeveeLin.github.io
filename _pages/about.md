@@ -125,11 +125,12 @@ Brief: This research aims to develop and evaluate triply periodic minimal surfac
 - **Inspiration and Design:**
   -	Inspired by Chinese Taichi.
   -	Utilized advanced coding techniques to design and generate multicell interlacing Gyroid TPMS lattice structures.
-- **Research Objectives:**
+- **Research Objectives:** 
   -**1.Mechanical Properties:**
-    --	Investigate the compressive mechanical properties of the lattice structures.
+    -Investigate the compressive mechanical properties of the lattice structures.
     -	Methods: Uniaxial compression tests and finite element analysis.
     -	Expected Completion: July 2024.
+    -	
   -**2.Mass Transport Characteristics:**
     -	Elucidate the mass transport characteristics of the structures.
     -	Methods: Purpose-designed permeability test and laminar computational fluid      dynamics (CFD) analysis using COMSOL Multiphysics software.
