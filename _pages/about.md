@@ -23,7 +23,7 @@ I have been awarded the Second-class Scholarship twice, in 2022 and 2023, and wa
 
 My research journey began with the structural design of Triply period minimal surfaces(TPMS) and additive manufacturing when I was a sophomore. I held the belif that additive manufacturing can significantly shape the development of global economy, as this technique allows for production of architectures with extremely complicated shapes using fewer raw materials. 
 
-You can find my CV here: [Di Lin's CV](CV of Di Lin.pdf).
+You can find my CV here: [Di Lin's CV](CV.pdf).
 
 # ⚙️ Projects
 
