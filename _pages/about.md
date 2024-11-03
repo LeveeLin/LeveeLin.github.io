@@ -166,9 +166,9 @@ Researchers: Kang Xia, Ruihan Liu, Gan Liu, **Di Lin**, Haotian Wang
 # 📝 Publications and Patents
 - [TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces](https://www.sciencedirect.com/science/article/pii/S2950431724000145),
 **Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang, **Additive Manufacturing Frontiers 2023**
-- [Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation](Paper-3.pdf) **(My signature work)**, **Di Lin**, Lei Yang, Yunlong Ren, Mengying Chen, Siqi Wu, Hui Qiao, Hejiang Xu,Chunze Yan and Yusheng Shi.
+- [Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation] **(My signature work)**, **Di Lin**, Lei Yang, Yunlong Ren, Mengying Chen, Siqi Wu, Hui Qiao, Hejiang Xu,Chunze Yan and Yusheng Shi.
 ,  **Submitted to Additive Manufacturing**
-- [Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation](Paper-3.pdf), Mengying Chen<sup>1</sup>, **Di Lin<sup>1</sup>**, Hui Qiao, Lei Yang, **To be submitted**
+- [Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation], Mengying Chen<sup>1</sup>, **Di Lin<sup>1</sup>**, Hui Qiao, Lei Yang, **To be submitted**
 - The mechanical properties of Ni-Ti Gyroid TPMS lattice structures with varying orientations and their influence on crack propagation control Yunlong Ren<sup>1</sup>, **Di Lin<sup>1</sup>**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu, **To be submitted**
 - [Fully automated trasporter for yard bridges](https://pss-system.cponline.cnipa.gov.cn/retrieveList?prevPageTit=changgui), **Di Lin**, Kang Xia, Ruihan Sun, Haotian Wang. CN202321806345.7, 2023
 
