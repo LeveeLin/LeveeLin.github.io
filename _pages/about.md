@@ -50,7 +50,7 @@ Team Members: **Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang*.
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Exceptional shape memory effect and superelasticity of ultra-light Gyroid TPMS lattice sturctures fabricated laser powder bed fusion**](Paper-2.pdf) (**My signature work**)
+[**Exceptional shape memory effect and superelasticity of ultra-light Gyroid TPMS lattice sturctures fabricated laser powder bed fusion**] (**My signature work**)
 
 Duration: January 2023 - Present
 
@@ -70,7 +70,7 @@ This research focuses on the fabrication and analysis of ultra-light Gyroid TPMS
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Triply Periodic Minimal Surface Multi-Cell Interlacing Metamaterials for Superior Vibrational Isolation**](Paper-3.pdf)
+[**Triply Periodic Minimal Surface Multi-Cell Interlacing Metamaterials for Superior Vibrational Isolation**]
 
 **Duration**: June 2023-Present
 
