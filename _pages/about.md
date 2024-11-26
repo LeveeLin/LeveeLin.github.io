@@ -67,7 +67,7 @@ This research focuses on the fabrication and mechanic analysis of ultra-light Gy
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-3.tif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multicell interlacing IWP lattice metamaterials with superior low-frequency vibration isolation performance fabricated by laser powder bed fusion**
