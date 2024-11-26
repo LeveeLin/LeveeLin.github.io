@@ -67,7 +67,7 @@ This research focuses on the fabrication and mechanic analysis of ultra-light Gy
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-3.tif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multicell interlacing IWP lattice metamaterials with superior low-frequency vibration isolation performance fabricated by laser powder bed fusion**
@@ -92,7 +92,7 @@ This research aims to develop and evaluate triply periodic minimal surface (TPMS
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-4.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Mechanical Properties of Ni-Ti Gyroid TPMS Lattice Structures with Varying Orientations and Their Influence on Crack Propagation Control**
+**Mechanical properties and crack propagation of twin-oriented NiTi TPMS structures fabricated by laser powder bed fusion**
 
 Duration: anuary 2023 - Present
 
@@ -111,8 +111,7 @@ This study investigates the mechanical properties of Ni-Ti Gyroid TPMS lattice s
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-5.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 
-**Mechanical Properties and Mass Transport Characteristics of Laser Powder Bed Fused Multicell Interlacing Gyroid TPMS Metallic Biomaterials for Bone Scaffolds** 
-Ongoing Work
+**Mechanical properties and permeability characteristic of laser powder bed fused multicell interlacing Gyroid TPMS metallic biomaterials.** 
 
 Date: 05/2024 - Present
 
@@ -130,11 +129,9 @@ Brief: This research aims to develop and evaluate triply periodic minimal surfac
     - Investigate the compressive mechanical properties of the lattice structures.
     -	Methods: Uniaxial compression tests and finite element analysis.
     -	Expected Completion: July 2024.
-  - **2.Mass Transport Characteristics:**
-    -	Elucidate the mass transport characteristics of the structures.
-    -	Methods: Purpose-designed permeability test and laminar computational fluid      dynamics (CFD) analysis using COMSOL Multiphysics software.
-    -	Expected Completion: August 2024.
-
+  - **2.Permeability Characteristics:**
+    -	Elucidate the permeability characteristics of the structures.
+    -	Methods: Purpose-designed permeability test and laminar computational fluid dynamics (CFD) analysis using COMSOL Multiphysics software.
 
 </div>
 </div>
@@ -166,10 +163,10 @@ Researchers: Kang Xia, Ruihan Liu, Gan Liu, **Di Lin**, Haotian Wang
 # 📝 Publications and Patents
 - [TPMS_Scaffold_Generator: A Scaffold-Structure Generator Based on Triply Periodic Minimal Surfaces](https://www.sciencedirect.com/science/article/pii/S2950431724000145),
 **Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang, **Additive Manufacturing Frontiers 2023**
-- [Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation] **(My signature work)**, **Di Lin**, Lei Yang, Yunlong Ren, Mengying Chen, Siqi Wu, Hui Qiao, Hejiang Xu,Chunze Yan and Yusheng Shi.
-,  **Submitted to Additive Manufacturing**
-- [Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation], Mengying Chen<sup>1</sup>, **Di Lin<sup>1</sup>**, Hui Qiao, Lei Yang, **To be submitted**
-- The mechanical properties of Ni-Ti Gyroid TPMS lattice structures with varying orientations and their influence on crack propagation control Yunlong Ren<sup>1</sup>, **Di Lin<sup>1</sup>**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu, **To be submitted**
+- Triply periodic minimal surface multi-cell interlacing metamaterials to achieve superior vibrational isolation **(Ongoing work)**, **Di Lin**, Lei Yang, Yunlong Ren, Mengying Chen, Siqi Wu, Hui Qiao, Chunze Yan and Yusheng Shi.
+- Multicell interlacing IWP lattice metamaterials with superior low-frequency vibration isolation performance fabricated by laser powder bed fusion, Mengying Chen<sup>1</sup>, **Di Lin<sup>1</sup>**, Lei Yang*, Cong Zhang, Hui Qiao, Liu He, Yunlong Ren, Chunze Yan, and Yusheng Shi. **(Under review by Additive Manufacturing)**
+- Mechanical properties and crack propagation of twin-oriented NiTi TPMS structures fabricated by laser powder bed fusion.  **Di Lin**, Lei Yang, Hejiang Xu, Dianyu Tang, and Siqi Wu, **(With editor of Composite Structures)**
+-  Mechanical properties and permeability characteristic of laser powder bed fused multicell interlacing Gyroid TPMS metallic biomaterials. **Di Lin**, Yunlong Ren, Mengying Chen, Hejiang Xu, Lei Yang*. **(Ongoing work)**
 - [Fully automated trasporter for yard bridges](https://pss-system.cponline.cnipa.gov.cn/retrieveList?prevPageTit=changgui), **Di Lin**, Kang Xia, Ruihan Sun, Haotian Wang. CN202321806345.7, 2023
 
 # 🎖 Honors and Awards
