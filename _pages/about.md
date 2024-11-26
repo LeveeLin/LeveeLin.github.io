@@ -34,7 +34,7 @@ You can find my CV here: [Di Lin's CV](CV.pdf).
 
 Date: 03/2022-03/2024
 
-**Role**: **Principal Investigator**, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129), WHUT
+**Role**: **Principal Investigator**, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129), WUT
 
 Team Members: **Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang*.
 
@@ -50,16 +50,16 @@ Team Members: **Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang*.
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Exceptional shape memory effect and superelasticity of ultra-light Gyroid TPMS lattice sturctures fabricated laser powder bed fusion**] (**My signature work**)
+**Exceptional shape memory effect and superelasticity of ultra-light TPMS lattice sturctures fabricated by laser powder bed fusion** 
 
 Duration: January 2023 - Present
 
-**Role**: **Principal Investigator**, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129), WHUT
+**Role**: **Principal Investigator**, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129), WUT
 
-Contributors: **Di Lin**, Lei Yang*, Yunlong Ren, Mengying Chen, Siqi Wu, Hui Qiao, Hejiang Xu,Chunze Yan and Yusheng Shi.
+Contributors: **Di Lin**, Lei Yang*, Yunlong Ren, Mengying Chen, Siqi Wu, Hui Qiao, Chunze Yan and Yusheng Shi.
 
 Brief:
-This research focuses on the fabrication and analysis of ultra-light Gyroid TPMS lattice structures using Laser Powder Bed Fusion (LPBF). The project highlights significant findings in shape memory effect and superelasticity.
+This research focuses on the fabrication and mechanic analysis of ultra-light Gyroid TPMS lattice structures using Laser Powder Bed Fusion (LPBF). The project highlights significant findings in shape memory effect and superelasticity.
 
 - **Manufacturing Fidelity**: Employed VGSTUDIO MAX 3.4 to examine manufacturing fidelity, comparing high and low energy density parameters.
 - **Mechanical Properties Analysis**: Conducted uniaxial compressive experiments on LPBF-fabricated specimens, systematically analyzing their compressive mechanical properties and behavior.
@@ -70,18 +70,18 @@ This research focuses on the fabrication and analysis of ultra-light Gyroid TPMS
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Paper-3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Triply Periodic Minimal Surface Multi-Cell Interlacing Metamaterials for Superior Vibrational Isolation**]
+**Multicell interlacing IWP lattice metamaterials with superior low-frequency vibration isolation performance fabricated by laser powder bed fusion**
 
 **Duration**: June 2023-Present
 
-**Role**: Co-First author, supervised by Prof. Lei Yang and Assoc. Prof. Cong Zhang, WHUT
+**Role**: Co-First author, supervised by Prof. Lei Yang and Assoc. Prof. Cong Zhang, WUT
 
-Contributors: Mengying Chen<sup>1</sup>, **Di Lin<sup>1</sup>**, Hui Qiao, Lei Yang.
+Contributors: Mengying Chen<sup>1</sup>, **Di Lin<sup>1</sup>**, Lei Yang*, Cong Zhang, Hui Qiao, Liu He, Yunlong Ren, Chunze Yan and Yusheng Shi.
 
 Brief:
 This research aims to develop and evaluate triply periodic minimal surface (TPMS) multi-cell interlacing metamaterials for enhanced vibrational isolation.
 
-- **Design and Model Generation:** Designed and generated multi-cell interlacing IWP lattice models using MATLAB.
+- **Design and Model Generation:** Designed and generated multicell interlacing IWP lattice models using MATLAB.
 - **Manufacturing and Experimental Responsibilities:** Conducted quasi-static uniaxial compressive experiments and oversaw the fabrication of specimens using Laser Powder Bed Fusion (LPBF).
 - **Morphological Analysis:** Performed morphological analysis of the surface features of samples and powders using Scanning Electron Microscopy (SEM).
 - **Vibrational Isolation Research:** Assisted in the investigation of the vibrational isolation properties of multi-cell interlacing IWP lattice structures.
