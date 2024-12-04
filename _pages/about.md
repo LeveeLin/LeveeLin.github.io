@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🎓 About Me
-I am currently focusing on **TPMS lattice structure, Mechanical metamaterials and Additive manufacturing**, as I pursue my Bachelor's degree in Mechanical design, manufacture & its automation at the School of Transportation and Logistics Engineering, Wuhan University of Technology. Presently, I'm conducting researches on Effects of volume fraction and interlacing number on Ti6Al4V multicell interlacing Gyroid TPMS lattice structures supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129). In August, I will follow [Chair Prof. Yu Wang(王煜)](https://scholar.google.com/citations?hl=zh-CN&user=Oo7c22wAAAAJ) to conducte researches on topology optimization of TPMS and additive manufacturing.
+I am currently focusing on **TPMS lattice structure, Mechanical metamaterials and Additive manufacturing**, as I pursue my Bachelor's degree in Mechanical design, manufacture & its automation at the School of Transportation and Logistics Engineering, Wuhan University of Technology. 
 
 I have been awarded the Second-class Scholarship twice, in 2022 and 2023, and was hornored as one of the "Top Graduates of the Class of 2024" at my school. 
 
@@ -34,7 +34,7 @@ You can find my CV here: [Di Lin's CV](CV.pdf).
 
 Date: 03/2022-03/2024
 
-**Role**: **Principal Investigator**, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129), WUT
+**Role**: **Principal Investigator**, WUT
 
 Team Members: **Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang*.
 
@@ -54,7 +54,7 @@ Team Members: **Di Lin**, Cong Zhang, Xiyong Chen, Nannan Wang, Lei Yang*.
 
 Duration: January 2023 - Present
 
-**Role**: **Principal Investigator**, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129), WUT
+**Role**: **Principal Investigator**, WUT
 
 Contributors: **Di Lin**, Lei Yang*, Yunlong Ren, Mengying Chen, Siqi Wu, Hui Qiao, Chunze Yan and Yusheng Shi.
 
@@ -183,5 +183,5 @@ Researchers: Kang Xia, Ruihan Liu, Gan Liu, **Di Lin**, Haotian Wang
 - *2017.09 - 2020.06*, Shunde No.1 High School, Guangdong
 
 # 👩‍🏫 Research Assistant
-- *2022.02 - 2024.07*, Research on the design of TPMS lattice sturctures and their mechanical properties, supervised by [Prof. Lei Yang(杨磊)](https://www.researchgate.net/profile/Lei-Yang-129) WHUT.
+- *2022.02 - 2024.07*, Research on the design of TPMS lattice sturctures and their mechanical properties, supervised by Prof. Lei Yang(杨磊).
 - *2024.08 - 2025.08 (expected)*, Research on topology optimization of TPMS lattice sturctures and their mechanical properties, supervised by [Prof. Yu Wang(王煜)](https://scholar.google.com/citations?hl=zh-CN&user=Oo7c22wAAAAJ) GBU.
